@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1563368780 source:d:\matwijiszyn\segundorecu2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"menu.h"
+	"validaciones.h"
+
+1563363649 d:\matwijiszyn\segundorecu2\linkedlist.h
+
+1563367787 d:\matwijiszyn\segundorecu2\controller.h
+
+1563369870 d:\matwijiszyn\segundorecu2\employee.h
+
+1563365107 d:\matwijiszyn\segundorecu2\parser.h
+
+1563363649 d:\matwijiszyn\segundorecu2\menu.h
+
+1563363649 d:\matwijiszyn\segundorecu2\validaciones.h
+
+1563370326 source:d:\matwijiszyn\segundorecu2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1563370526 source:d:\matwijiszyn\segundorecu2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+	"validaciones.h"
+
+1563363649 source:d:\matwijiszyn\segundorecu2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1563370149 source:d:\matwijiszyn\segundorecu2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1563370496 source:d:\matwijiszyn\segundorecu2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+	"validaciones.h"
+
+1563365107 source:d:\matwijiszyn\segundorecu2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
